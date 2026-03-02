@@ -1,4 +1,4 @@
-# AEGIS (Advance Energy Guidance & Intelligence System) ⚡
+# AEGIS (Advance Energy Guidance & Intelligence System)
 Sistem Manajemen Energi berbasis IoT dan Logika Fuzzy Mamdani untuk optimasi konsumsi energi pada hunian tipe 21 dengan siklus evaluasi 10 harian.
 
 ## 📝 Deskripsi Proyek
